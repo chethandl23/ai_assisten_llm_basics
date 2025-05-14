@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+venv/
+.env/
+*.env
+*.log
+.streamlit/
+*.sqlite3
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+Thumbs.db
